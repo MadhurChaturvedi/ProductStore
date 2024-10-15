@@ -1,10 +1,9 @@
 import React from "react";
-import Home from "./pages/Home";
-
+import Button from "@mui/material/Button";
 function App() {
   return (
-    <div>
-      <Home />
+    <div className="h-screen bg-slate-600">
+      
     </div>
   );
 }
